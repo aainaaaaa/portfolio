@@ -1,5 +1,7 @@
 # Portfolio
 
+Technical Skills: SQL, Power BI, Excel, Phyton
+
 ### Education
 - Manufacturing System Engineering, Master
 - Mechanical Engineering, Bachelor
