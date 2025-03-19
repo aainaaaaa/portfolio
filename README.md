@@ -15,6 +15,6 @@ Data Analytics Certificate Course, Coursera
 - Measured performance improvement compared to the previous year
 - Track pricing changes
 - Visualised and compared sales across different dealers by region
-- Assess customers' car preferences
+- Assessed customers' car preferences
   
 ### Work Experience
