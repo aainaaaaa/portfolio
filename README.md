@@ -10,8 +10,8 @@
 Data Analytics Certificate Course, Coursera
 
 ### Data Analytics & Visualisation Project
-[**Car Sales Insight**](https://aainaaaaa.github.io/Car_Sales_Insight/)
-(Tools: Power BI, DAX)
+1. [**Car Sales Insight**](https://aainaaaaa.github.io/Car_Sales_Insight/)
+  _(Tools: Power BI, DAX)_
 - Measured performance improvement compared to the previous year
 - Track pricing changes
 - Visualised and compared sales across different dealers by region
