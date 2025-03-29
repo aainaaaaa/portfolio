@@ -16,5 +16,11 @@ Data Analytics Certificate Course, Coursera
 - Track pricing changes
 - Visualised and compared sales across different dealers by region
 - Assessed customers' car preferences
-  
+
+2. [**Food Delivery Data Analysis**](https://aainaaaaa.github.io/Food_Delivery_Data_Analysis/)
+_(Tools: PostgreSQL)_
+- Evaluated customer behavior and insights
+- Analyzed orders, sales, restaurant, and rider performance
+- Measured operational effectiveness
+
 ### Work Experience
