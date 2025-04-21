@@ -7,7 +7,10 @@
 - Mechanical Engineering, Bachelor | Universiti Malaya (_Sept 2018 - Dec 2022_)
 
 ### Data Analytics Training
-Data Analytics Certificate Course, Coursera
+- Data Analytics Certificate Course | Coursera
+- Excel Certified Course | Coursera
+- Data Cleaning | Kaggle, CareerFoundry
+- Data Visualisation | Kaggle, CodeBasics
 
 ### Data Analytics & Visualisation Project
 1. [**Car Sales Insight**](https://aainaaaaa.github.io/Car_Sales_Insight/)
