@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Power BI, Excel, Phyton
 
 ### Education
-- Manufacturing System Engineering, Master | Universiti Putra Malaysia (_Mar 2023 - Dec 2024_)
+<!-- - Manufacturing System Engineering, Master | Universiti Putra Malaysia (_Mar 2023 - Dec 2024_)-->
 - Mechanical Engineering, Bachelor | Universiti Malaya (_Sept 2018 - Dec 2022_)
 
 ### Data Analytics Training
